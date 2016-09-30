@@ -2,7 +2,7 @@ name 00texlive.config
 category TLCore
 revision 1
 depend container_format/xz
-depend release/2016-mojca
+depend release/2016-context
 depend minrelease/2016
 depend container_split_doc_files/1
 depend container_split_src_files/1
