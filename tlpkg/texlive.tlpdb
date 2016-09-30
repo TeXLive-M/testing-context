@@ -3341,17 +3341,14 @@ binfiles arch=x86_64-linux size=143
 name luatex.win32
 category TLCore
 revision 1
-binfiles arch=win32 size=4026
+binfiles arch=win32 size=4003
  bin/win32/dviluatex.exe
- bin/win32/kpathsea622.dll
  bin/win32/lua52.dll
  bin/win32/luajit51.dll
  bin/win32/luajittex.dll
  bin/win32/luajittex.exe
  bin/win32/luatex.dll
  bin/win32/luatex.exe
- bin/win32/mtxrun.dll
- bin/win32/mtxrun.exe
  bin/win32/texlua.exe
  bin/win32/texluac.exe
  bin/win32/texluajit.exe
@@ -3360,56 +3357,39 @@ binfiles arch=win32 size=4026
 name luatex.win64
 category TLCore
 revision 1
-binfiles arch=win64 size=2554
+binfiles arch=win64 size=2524
  bin/win64/dviluatex.exe
- bin/win64/kpathsea622w64.dll
  bin/win64/lua.exe
  bin/win64/lua52w64.dll
  bin/win64/luac.exe
  bin/win64/luatex.dll
  bin/win64/luatex.exe
- bin/win64/mtxrun.dll
- bin/win64/mtxrun.exe
  bin/win64/texlua.exe
  bin/win64/texluac.exe
 
 name luatex.x86_64-darwin
 category TLCore
 revision 1
-binfiles arch=x86_64-darwin size=4853
- bin/x86_64-darwin/context
- bin/x86_64-darwin/contextjit
+binfiles arch=x86_64-darwin size=4710
  bin/x86_64-darwin/dviluatex
  bin/x86_64-darwin/luajittex
  bin/x86_64-darwin/luatex
- bin/x86_64-darwin/luatools
- bin/x86_64-darwin/mtxrun
- bin/x86_64-darwin/mtxrunjit
- bin/x86_64-darwin/texexec
  bin/x86_64-darwin/texlua
  bin/x86_64-darwin/texluac
  bin/x86_64-darwin/texluajit
  bin/x86_64-darwin/texluajitc
- bin/x86_64-darwin/texmfstart
 
 name luatex.x86_64-linux
 category TLCore
 revision 1
-binfiles arch=x86_64-linux size=4555
- bin/x86_64-linux/context
- bin/x86_64-linux/contextjit
+binfiles arch=x86_64-linux size=4412
  bin/x86_64-linux/dviluatex
  bin/x86_64-linux/luajittex
  bin/x86_64-linux/luatex
- bin/x86_64-linux/luatools
- bin/x86_64-linux/mtxrun
- bin/x86_64-linux/mtxrunjit
- bin/x86_64-linux/texexec
  bin/x86_64-linux/texlua
  bin/x86_64-linux/texluac
  bin/x86_64-linux/texluajit
  bin/x86_64-linux/texluajitc
- bin/x86_64-linux/texmfstart
 
 name scheme-m-context
 category Scheme
