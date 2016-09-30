@@ -1,14 +1,11 @@
 category TLCore
 binpattern f/win32 bin/win32/dviluatex.exe
-binpattern f/win32 bin/win32/kpathsea622.dll
 binpattern f/win32 bin/win32/lua52.dll
 binpattern f/win32 bin/win32/luajit51.dll
 binpattern f/win32 bin/win32/luajittex.dll
 binpattern f/win32 bin/win32/luajittex.exe
 binpattern f/win32 bin/win32/luatex.dll
 binpattern f/win32 bin/win32/luatex.exe
-binpattern f/win32 bin/win32/mtxrun.dll
-binpattern f/win32 bin/win32/mtxrun.exe
 binpattern f/win32 bin/win32/texluac.exe
 binpattern f/win32 bin/win32/texlua.exe
 binpattern f/win32 bin/win32/texluajitc.exe
