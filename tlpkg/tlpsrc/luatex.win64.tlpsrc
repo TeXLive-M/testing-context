@@ -1,0 +1,12 @@
+category TLCore
+binpattern f/win64 bin/win64/dviluatex.exe
+binpattern f/win64 bin/win64/kpathsea622w64.dll
+binpattern f/win64 bin/win64/lua52w64.dll
+binpattern f/win64 bin/win64/luac.exe
+binpattern f/win64 bin/win64/lua.exe
+binpattern f/win64 bin/win64/luatex.dll
+binpattern f/win64 bin/win64/luatex.exe
+binpattern f/win64 bin/win64/mtxrun.dll
+binpattern f/win64 bin/win64/mtxrun.exe
+binpattern f/win64 bin/win64/texluac.exe
+binpattern f/win64 bin/win64/texlua.exe

@@ -1,0 +1,15 @@
+category TLCore
+binpattern f/x86_64-darwin bin/x86_64-darwin/context
+binpattern f/x86_64-darwin bin/x86_64-darwin/contextjit
+binpattern f/x86_64-darwin bin/x86_64-darwin/dviluatex
+binpattern f/x86_64-darwin bin/x86_64-darwin/luajittex
+binpattern f/x86_64-darwin bin/x86_64-darwin/luatex
+binpattern f/x86_64-darwin bin/x86_64-darwin/luatools
+binpattern f/x86_64-darwin bin/x86_64-darwin/mtxrun
+binpattern f/x86_64-darwin bin/x86_64-darwin/mtxrunjit
+binpattern f/x86_64-darwin bin/x86_64-darwin/texexec
+binpattern f/x86_64-darwin bin/x86_64-darwin/texlua
+binpattern f/x86_64-darwin bin/x86_64-darwin/texluac
+binpattern f/x86_64-darwin bin/x86_64-darwin/texluajit
+binpattern f/x86_64-darwin bin/x86_64-darwin/texluajitc
+binpattern f/x86_64-darwin bin/x86_64-darwin/texmfstart
