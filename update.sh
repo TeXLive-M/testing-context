@@ -22,6 +22,10 @@ $TLCHECKOUT/Master/tlpkg/bin/tl-update-tlpdb \
 	-with-w32-pattern-warning -from-files -no-reverse-revision-check \
 	--keep-revisions --master=`pwd`
 
+# one could use the new git mode and get automatically nice version numbers!
+#$TLCHECKOUT/Master/tlpkg/bin/tl-update-tlpdb	\
+#	-with-w32-pattern-warning -from-git --master=`pwd`
+
 $TLCHECKOUT/Master/tlpkg/bin/tl-update-containers \
 	-no-sign     \
 	-master `pwd` \
